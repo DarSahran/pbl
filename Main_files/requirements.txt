@@ -1,0 +1,9 @@
+SpeechRecognition;
+opencv-python;
+gtts;
+PyAudio;
+pyttsx3;
+torch;
+pandas;
+numpy;
+ultralytics;

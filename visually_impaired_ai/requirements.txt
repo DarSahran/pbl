@@ -1,0 +1,15 @@
+# Add your dependencies here
+numpy
+opencv-python
+torch
+torchvision
+torchaudio
+ultralytics
+gtts
+speechrecognition
+sounddevice
+librosa
+scipy
+openai-whisper
+wikipedia-api
+RPi.GPIO
